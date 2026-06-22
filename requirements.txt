@@ -1,0 +1,21 @@
+# AI Scholarship Assistant PRO — Dependencies
+# Python 3.9+
+
+# ── Core Framework ─────────────────────────
+streamlit>=1.32.0
+
+# ── PDF Processing ─────────────────────────
+PyMuPDF>=1.23.0
+
+# ── Embeddings & Vector Search ─────────────
+sentence-transformers>=2.7.0
+faiss-cpu>=1.7.4
+
+# ── LLM (HuggingFace) ──────────────────────
+transformers>=4.40.0
+torch>=2.1.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# ── Utilities ──────────────────────────────
+numpy>=1.24.0
