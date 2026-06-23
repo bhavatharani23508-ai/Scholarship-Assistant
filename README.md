@@ -218,3 +218,5 @@ Built for Academic Project Submission using AI, RAG, FAISS, OpenAI GPT, and Stre
 This project is licensed under the MIT License.
 
 Feel free to use, modify, and distribute for educational purposes.
+<img width="1364" height="532" alt="image" src="https://github.com/user-attachments/assets/0b5cd3e3-dcce-4025-a484-b4ac77630aac" />
+<img width="993" height="407" alt="image" src="https://github.com/user-attachments/assets/4c84913a-77bd-4ce6-9bef-1ae522aabc99" />
